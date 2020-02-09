@@ -1,2 +1,2 @@
-* URL for testing: https://obijuan.github.io/FPGA-WEB-Serial/Test-01-button-led-simple/
-* [Find more information on the WIKI](https://github.com/Obijuan/FPGA-WEB-Serial/wiki/Test-1:-Hola-mundo)
+* URL for testing: https://github.com/RoboticsLabURJC/2019-tfg-david-valladares/blob/master/WebSerialApi/Arduino-Led/
+*Reference: https://github.com/Obijuan/FPGA-WEB-Serial/tree/master/WebTerm
